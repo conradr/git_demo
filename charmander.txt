@@ -1,2 +1,3 @@
 flamethrower = firey 
 Flamethrower = disabled
+ember = engaged
